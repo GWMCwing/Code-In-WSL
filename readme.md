@@ -4,8 +4,13 @@ This is a simple program that allows you to open a folder in VSCode under WSL re
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/GWMCwing/Code-In-WSL/releases/latest) / Directly clone the repository
+1. Download the latest release from the [releases page](https://github.com/GWMCwing/Code-In-WSL/releases/latest) / Directly clone the repository / Directly compile
 2. Add the executable to your path
+
+Compilation:
+```cmd
+g++ -o codeWSL.exe codeWSL.cpp
+```
 
 ## Usage
 
